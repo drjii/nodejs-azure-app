@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <h1>Hello from React deployed with Azure CI/CD!, This class will be fun</h1>
+      <h1>Hello from React deployed with Azure CI/CD!, This class will be fun to Have</h1>
     </div>
   );
 }
