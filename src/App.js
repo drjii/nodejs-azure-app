@@ -1,10 +1,10 @@
-import logo from './logo.svg';
+// Removed: import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <h1>Hello from React deployed with Azure CI/CD!, This class will be fun to Have</h1>
+      <h1>Hello, world!</h1>
     </div>
   );
 }
